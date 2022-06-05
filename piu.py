@@ -1,6 +1,6 @@
-__version__ = (2, 1, 0)
+__version__ = (1, 0)
 
-# scope: hikka_only
+#meta developer: @error_negr
 
 import logging
 
