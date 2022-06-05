@@ -57,7 +57,7 @@ class PingerMeowMod(loader.Module):
 
     @loader.unrestricted
     async def piucmd(self, message: Message):
-        """Узнай свой пинг"""
+        """Узнай свой пинг с помощью это команды"""
         ping = self.config["ping_message"]
         start = time.perf_counter_ns()
         message = await utils.answer(message, "<code>🐻 Focus....</code>")
