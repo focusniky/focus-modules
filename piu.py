@@ -1,16 +1,6 @@
 __version__ = (2, 1, 0)
-# module by:
-# █▀ █▄▀ █ █░░ █░░ ▀█
-# ▄█ █░█ █ █▄▄ █▄▄ █▄
-
-# █▀▄▀█ █▀▀ █▀█ █░█░█
-# █░▀░█ ██▄ █▄█ ▀▄▀▄▀
-# you can edit this module
-# 2022
 
 # scope: hikka_only
-# meta developer: @skillzmeow
-# ya botik
 
 import logging
 
